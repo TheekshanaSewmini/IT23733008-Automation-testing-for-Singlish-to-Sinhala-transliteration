@@ -1,4 +1,4 @@
-# IT23733008 – IT3040 Assignment 1
+# IT3040 Assignment 1
 
 ## 📌 Project Title
 
